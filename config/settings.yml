@@ -1,4 +1,4 @@
 plugins:
-  plugin_name_enabled:
+  plugin_s3_path_style:
     default: true
-    client: true
+    client: false

@@ -1,0 +1,4 @@
+zh_CN:
+  site_settings:
+    plugin_s3_path_style: "启用路径风格的 S3 存储（//url_basename/bucket）"
+  

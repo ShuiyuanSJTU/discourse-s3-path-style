@@ -1,1 +1,4 @@
 en:
+  site_settings:
+    plugin_s3_path_style: "Enable S3 path-style (//url_basename/bucket)"
+  
